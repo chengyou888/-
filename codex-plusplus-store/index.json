@@ -1,0 +1,594 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-06-12T17:55:11.249Z",
+  "entries": [
+    {
+      "id": "co.sakushi.add-project-by-path",
+      "manifest": {
+        "id": "co.sakushi.add-project-by-path",
+        "name": "Add Project by Path",
+        "version": "0.1.0",
+        "githubRepo": "ImSakushi/codex-plusplus-add-project-path",
+        "description": "Adds a native-looking project menu action for adding a workspace by typing its path.",
+        "author": {
+          "name": "Adrien Devoe"
+        },
+        "tags": [
+          "project",
+          "workspace",
+          "ui"
+        ],
+        "scope": "both",
+        "main": "index.cjs",
+        "iconUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/icons/co.sakushi.add-project-by-path.png"
+      },
+      "repo": "ImSakushi/codex-plusplus-add-project-path",
+      "approvedCommitSha": "aef5ebff965cb3c95df2a82f3f087b161e36c2ec",
+      "approvedAt": "2026-05-12T10:41:53.305Z",
+      "approvedBy": "bennett",
+      "reviewUrl": "https://github.com/b-nnett/codex-plusplus/issues/86",
+      "archiveUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/archives/co.sakushi.add-project-by-path/aef5ebff965cb3c95df2a82f3f087b161e36c2ec.tar.gz"
+    },
+    {
+      "id": "co.bennett.ui-improvements",
+      "manifest": {
+        "id": "co.bennett.ui-improvements",
+        "name": "Bennett's UI Improvements",
+        "version": "1.0.3",
+        "githubRepo": "b-nnett/codex-plusplus-bennett-ui",
+        "description": "Quality-of-life UI tweaks for Codex: hide upgrade prompts, surface usage and message metrics.",
+        "author": {
+          "name": "bennett",
+          "url": "https://github.com/anomalyco/codex-plusplus"
+        },
+        "tags": [
+          "ui",
+          "usage",
+          "upgrade"
+        ],
+        "scope": "both",
+        "main": "index.js",
+        "iconUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/icons/co.bennett.ui-improvements.png"
+      },
+      "repo": "b-nnett/codex-plusplus-bennett-ui",
+      "approvedCommitSha": "17156ac0cc3402284b09c13c74754eda70388f50",
+      "approvedAt": "2026-05-08T15:33:36Z",
+      "approvedBy": "bennett",
+      "archiveUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/archives/co.bennett.ui-improvements/17156ac0cc3402284b09c13c74754eda70388f50.tar.gz"
+    },
+    {
+      "id": "co.bennett.better-browser",
+      "manifest": {
+        "id": "co.bennett.better-browser",
+        "name": "Better Browser",
+        "version": "0.1.2",
+        "githubRepo": "b-nnett/codex-plusplus-better-browser",
+        "description": "Improves Codex's browser side panel with more tabs, inline devtools, and browser navigation shortcuts.",
+        "author": {
+          "name": "bennett",
+          "url": "https://github.com/anomalyco/codex-plusplus"
+        },
+        "tags": [
+          "browser",
+          "tabs",
+          "devtools",
+          "shortcuts"
+        ],
+        "scope": "main",
+        "main": "index.js",
+        "iconUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/icons/co.bennett.better-browser.png"
+      },
+      "repo": "b-nnett/codex-plusplus-better-browser",
+      "approvedCommitSha": "dfcc75ec0d8e980698974a3a2b80531cd553af77",
+      "approvedAt": "2026-05-02T16:50:54+09:00",
+      "approvedBy": "bennett",
+      "archiveUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/archives/co.bennett.better-browser/dfcc75ec0d8e980698974a3a2b80531cd553af77.tar.gz"
+    },
+    {
+      "id": "co.bennett.better-terminal",
+      "manifest": {
+        "id": "co.bennett.better-terminal",
+        "name": "Better Terminal",
+        "version": "1.0.0",
+        "githubRepo": "b-nnett/codex-plusplus-better-terminal",
+        "description": "Upgrades Codex terminals with split panes, native popouts, tab controls, shortcuts, and a memory watchdog.",
+        "author": {
+          "name": "bennett",
+          "url": "https://github.com/b-nnett"
+        },
+        "homepage": "https://github.com/b-nnett/codex-plusplus-better-terminal",
+        "tags": [
+          "terminal",
+          "ui",
+          "productivity"
+        ],
+        "scope": "both",
+        "main": "index.js",
+        "permissions": [
+          "settings"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/icons/co.bennett.better-terminal.png"
+      },
+      "repo": "b-nnett/codex-plusplus-better-terminal",
+      "approvedCommitSha": "b0398c839a42134d5cb301c432d43a9f13ac22e0",
+      "approvedAt": "2026-05-06T05:02:49Z",
+      "approvedBy": "bennett",
+      "archiveUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/archives/co.bennett.better-terminal/b0398c839a42134d5cb301c432d43a9f13ac22e0.tar.gz"
+    },
+    {
+      "id": "co.bennett.codex-horizontal-tabs",
+      "manifest": {
+        "id": "co.bennett.codex-horizontal-tabs",
+        "name": "Codex Horizontal Tabs",
+        "version": "1.0.1",
+        "githubRepo": "b-nnett/codexplusplus-horizontal-tabs",
+        "description": "Adds a Chrome-like top tab bar for open Codex chats.",
+        "author": {
+          "name": "bennett",
+          "url": "https://github.com/b-nnett"
+        },
+        "homepage": "https://github.com/b-nnett/codexplusplus-horizontal-tabs",
+        "tags": [
+          "ui",
+          "tabs",
+          "productivity"
+        ],
+        "scope": "both",
+        "main": "index.js",
+        "iconUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/icons/co.bennett.codex-horizontal-tabs.png"
+      },
+      "repo": "b-nnett/codexplusplus-horizontal-tabs",
+      "approvedCommitSha": "1bfba0e9aeae552308c0249fb9f87d29c9c51354",
+      "approvedAt": "2026-05-08T16:24:59Z",
+      "approvedBy": "bennett",
+      "archiveUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/archives/co.bennett.codex-horizontal-tabs/1bfba0e9aeae552308c0249fb9f87d29c9c51354.tar.gz"
+    },
+    {
+      "id": "co.bennett.codex-tab-switcher",
+      "manifest": {
+        "id": "co.bennett.codex-tab-switcher",
+        "name": "Codex Tab Switcher",
+        "version": "1.0.0",
+        "githubRepo": "b-nnett/codex-plusplus-tab-switcher",
+        "description": "Switch between recent Codex chats with a Ctrl-Tab overlay and tiny chat previews.",
+        "author": {
+          "name": "bennett",
+          "url": "https://github.com/b-nnett"
+        },
+        "homepage": "https://github.com/b-nnett/codex-plusplus-tab-switcher",
+        "tags": [
+          "ui",
+          "shortcuts",
+          "productivity"
+        ],
+        "scope": "both",
+        "main": "index.js",
+        "iconUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/icons/co.bennett.codex-tab-switcher.png"
+      },
+      "repo": "b-nnett/codex-plusplus-tab-switcher",
+      "approvedCommitSha": "97b1226fb264dfebe7dbf5286497b99613981287",
+      "approvedAt": "2026-04-29T12:30:38+09:00",
+      "approvedBy": "bennett",
+      "archiveUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/archives/co.bennett.codex-tab-switcher/97b1226fb264dfebe7dbf5286497b99613981287.tar.gz"
+    },
+    {
+      "id": "com.jumang.completion-sound",
+      "manifest": {
+        "id": "com.jumang.completion-sound",
+        "name": "Completion Sound",
+        "version": "0.1.13",
+        "githubRepo": "jumang4423/codex-completion-sound",
+        "description": "Plays Codex activity sounds and widens the chat column.",
+        "author": {
+          "name": "jumang4423"
+        },
+        "tags": [
+          "notification",
+          "sound",
+          "productivity"
+        ],
+        "scope": "both",
+        "main": "index.js",
+        "minRuntime": "0.1.1"
+      },
+      "repo": "jumang4423/codex-completion-sound",
+      "approvedCommitSha": "d1447aab3835020e6dd9362e661a5d12579377f2",
+      "approvedAt": "2026-05-12T10:32:31.978Z",
+      "approvedBy": "bennett",
+      "reviewUrl": "https://github.com/b-nnett/codex-plusplus/issues/30",
+      "archiveUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/archives/com.jumang.completion-sound/d1447aab3835020e6dd9362e661a5d12579377f2.tar.gz"
+    },
+    {
+      "id": "co.Arconte112.followup",
+      "manifest": {
+        "id": "co.Arconte112.followup",
+        "name": "Context Follow Up",
+        "version": "0.3.0",
+        "githubRepo": "Arconte112/codex-plusplus-followup",
+        "description": "Adds clickable, context-aware next-step prompts below assistant messages and can sync a managed AGENTS.md instruction for follow-up payloads.",
+        "author": {
+          "name": "Arconte112",
+          "url": "https://github.com/Arconte112"
+        },
+        "tags": [
+          "ui",
+          "followups",
+          "productivity"
+        ],
+        "scope": "both",
+        "main": "index.js",
+        "iconUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/icons/co.Arconte112.followup.png"
+      },
+      "repo": "Arconte112/codex-plusplus-followup",
+      "approvedCommitSha": "3d169c4f2f6508c3cf6a89a6531ed939209b5d6c",
+      "approvedAt": "2026-05-05T19:19:59Z",
+      "approvedBy": "bennett",
+      "archiveUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/archives/co.Arconte112.followup/3d169c4f2f6508c3cf6a89a6531ed939209b5d6c.tar.gz"
+    },
+    {
+      "id": "co.bennett.custom-keyboard-shortcuts",
+      "manifest": {
+        "id": "co.bennett.custom-keyboard-shortcuts",
+        "name": "Custom Keyboard Shortcuts",
+        "version": "0.1.1",
+        "githubRepo": "b-nnett/codex-plusplus-keyboard-shortcuts",
+        "description": "Discover, remap, and disable Codex's keyboard shortcuts.",
+        "author": {
+          "name": "bennett",
+          "url": "https://github.com/anomalyco/codex-plusplus"
+        },
+        "tags": [
+          "ui",
+          "shortcuts",
+          "productivity"
+        ],
+        "scope": "renderer",
+        "iconUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/icons/co.bennett.custom-keyboard-shortcuts.png"
+      },
+      "repo": "b-nnett/codex-plusplus-keyboard-shortcuts",
+      "approvedCommitSha": "2fa2e5beeda1766b53288a6e28662443889e1f5b",
+      "approvedAt": "2026-05-01T13:10:25+09:00",
+      "approvedBy": "bennett",
+      "archiveUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/archives/co.bennett.custom-keyboard-shortcuts/2fa2e5beeda1766b53288a6e28662443889e1f5b.tar.gz"
+    },
+    {
+      "id": "co.qoli.disable-escape",
+      "manifest": {
+        "id": "co.qoli.disable-escape",
+        "name": "Disable Escape",
+        "version": "0.1.0",
+        "githubRepo": "qoli/codex-disable-escape-tweak",
+        "description": "Blocks Escape key events in Codex renderer windows so CJK IME composition does not interrupt running responses.",
+        "author": {
+          "name": "qoli",
+          "url": "https://github.com/qoli"
+        },
+        "tags": [
+          "ui",
+          "keyboard",
+          "ime",
+          "escape"
+        ],
+        "scope": "renderer",
+        "main": "index.js",
+        "iconUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/icons/co.qoli.disable-escape.png"
+      },
+      "repo": "qoli/codex-disable-escape-tweak",
+      "approvedCommitSha": "241f066ab315c98ff1df15a884f50d72328c8630",
+      "approvedAt": "2026-05-05T19:19:59Z",
+      "approvedBy": "bennett",
+      "archiveUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/archives/co.qoli.disable-escape/241f066ab315c98ff1df15a884f50d72328c8630.tar.gz"
+    },
+    {
+      "id": "me.erkin.codex-plusplus-account-switcher",
+      "manifest": {
+        "id": "me.erkin.codex-plusplus-account-switcher",
+        "name": "Easy Account Switcher",
+        "version": "1.0.0",
+        "githubRepo": "erknvl/codex-plusplus-account-switcher",
+        "description": "Save, switch, and manage local Codex auth sessions from the account menu, with cached usage status in Settings.",
+        "author": {
+          "name": "erknvl",
+          "url": "https://github.com/erknvl"
+        },
+        "tags": [
+          "auth",
+          "accounts",
+          "settings",
+          "productivity"
+        ],
+        "scope": "both",
+        "main": "index.bundled.js",
+        "iconUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/icons/me.erkin.codex-plusplus-account-switcher.png"
+      },
+      "repo": "erknvl/codex-plusplus-account-switcher",
+      "approvedCommitSha": "a37737530532170802262009af376da1a9fc25d6",
+      "approvedAt": "2026-05-05T19:19:59Z",
+      "approvedBy": "bennett",
+      "archiveUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/archives/me.erkin.codex-plusplus-account-switcher/a37737530532170802262009af376da1a9fc25d6.tar.gz"
+    },
+    {
+      "id": "co.bennett.file-editor",
+      "manifest": {
+        "id": "co.bennett.file-editor",
+        "name": "File Editor",
+        "version": "0.1.0",
+        "githubRepo": "b-nnett/codex-plusplus-file-editor",
+        "description": "Makes Codex right-panel file tabs editable with debounced autosave.",
+        "iconUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/icons/co.bennett.file-editor.png",
+        "author": {
+          "name": "bennett",
+          "url": "https://github.com/anomalyco/codex-plusplus"
+        },
+        "tags": [
+          "files",
+          "editor",
+          "autosave"
+        ],
+        "scope": "both",
+        "main": "index.js",
+        "permissions": [
+          "ipc",
+          "filesystem",
+          "settings"
+        ]
+      },
+      "repo": "b-nnett/codex-plusplus-file-editor",
+      "approvedCommitSha": "672e21d955b636ec88c6e8c67de5431341f146dc",
+      "approvedAt": "2026-05-02T22:25:48+09:00",
+      "approvedBy": "bennett",
+      "archiveUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/archives/co.bennett.file-editor/672e21d955b636ec88c6e8c67de5431341f146dc.tar.gz"
+    },
+    {
+      "id": "co.bennett.goal",
+      "manifest": {
+        "id": "co.bennett.goal",
+        "name": "Goal",
+        "version": "1.0.0",
+        "minRuntime": "0.1.6",
+        "githubRepo": "b-nnett/codex-plusplus-goal",
+        "description": "Adds Codex's /goal command and active goal UI to the desktop app.",
+        "author": {
+          "name": "bennett",
+          "url": "https://github.com/anomalyco/codex-plusplus"
+        },
+        "tags": [
+          "ui",
+          "goals",
+          "productivity",
+          "slash-command"
+        ],
+        "scope": "both",
+        "main": "index.js",
+        "iconUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/icons/co.bennett.goal.png"
+      },
+      "repo": "b-nnett/codex-plusplus-goal",
+      "approvedCommitSha": "e38f99fa0116cf76dcd21150b0ae297f184e5157",
+      "approvedAt": "2026-05-07T10:58:40.205Z",
+      "approvedBy": "bennett",
+      "releaseUrl": "https://github.com/b-nnett/codex-plusplus-goal/releases/tag/1.0.0",
+      "archiveUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/archives/co.bennett.goal/e38f99fa0116cf76dcd21150b0ae297f184e5157.tar.gz"
+    },
+    {
+      "id": "co.bennett.ios-simulator",
+      "manifest": {
+        "id": "co.bennett.ios-simulator",
+        "name": "iOS Simulator",
+        "version": "2.0.1",
+        "githubRepo": "b-nnett/codex-plusplus-ios-simulator",
+        "description": "Adds an iOS Simulator tab to Codex's right panel. Mirrors the booted simulator headlessly via CoreSimulator IOSurface and forwards taps/swipes through SimulatorKit's HID client.",
+        "author": {
+          "name": "b-nnett",
+          "url": "https://github.com/b-nnett/codex-plusplus-ios-simulator"
+        },
+        "tags": [
+          "ios",
+          "simulator",
+          "right-panel"
+        ],
+        "scope": "both",
+        "main": "index.js",
+        "iconUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/icons/co.bennett.ios-simulator.png"
+      },
+      "repo": "b-nnett/codex-plusplus-ios-simulator",
+      "approvedCommitSha": "2601adbc6e8faff389d30c7afff6ed2985b36554",
+      "approvedAt": "2026-05-07T19:43:24Z",
+      "approvedBy": "bennett",
+      "archiveUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/archives/co.bennett.ios-simulator/2601adbc6e8faff389d30c7afff6ed2985b36554.tar.gz"
+    },
+    {
+      "id": "co.bennett.computer-use",
+      "manifest": {
+        "id": "co.bennett.computer-use",
+        "name": "OpenAI Computer Use",
+        "version": "0.4.5",
+        "githubRepo": "TheAndersMadsen/codex-plusplus-computer-use",
+        "description": "Enable OpenAI Computer Use in Codex++ with native-style setup, startup self-healing, and native feature registration.",
+        "author": {
+          "name": "Anders Madsen",
+          "url": "https://github.com/TheAndersMadsen"
+        },
+        "homepage": "https://github.com/TheAndersMadsen/codex-plusplus-computer-use",
+        "tags": [
+          "mcp",
+          "computer-use",
+          "openai",
+          "codex-plusplus"
+        ],
+        "scope": "both",
+        "main": "index.js",
+        "mcp": {
+          "command": "./computer-use-mcp.sh"
+        }
+      },
+      "repo": "TheAndersMadsen/codex-plusplus-computer-use",
+      "approvedCommitSha": "52fe7b4b69854fcdfe34c36089d487329ebb8017",
+      "approvedAt": "2026-05-12T10:32:31.978Z",
+      "approvedBy": "bennett",
+      "reviewUrl": "https://github.com/b-nnett/codex-plusplus/issues/37",
+      "archiveUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/archives/co.bennett.computer-use/52fe7b4b69854fcdfe34c36089d487329ebb8017.tar.gz"
+    },
+    {
+      "id": "me.xtawfik.codex-plusplus-package-run",
+      "manifest": {
+        "id": "me.xtawfik.codex-plusplus-package-run",
+        "name": "Package Run",
+        "version": "0.1.0",
+        "githubRepo": "xtawfik/codex-plusplus-package-run",
+        "description": "Shows package.json scripts inside Codex's native file viewer and sends selected commands to the terminal.",
+        "author": {
+          "name": "Mohamed Tawfik",
+          "url": "https://github.com/xtawfik"
+        },
+        "tags": [
+          "package",
+          "scripts",
+          "terminal"
+        ],
+        "scope": "both",
+        "main": "index.js",
+        "permissions": [
+          "ipc",
+          "filesystem"
+        ]
+      },
+      "repo": "xtawfik/codex-plusplus-package-run",
+      "approvedCommitSha": "f24927c54f2798a3495b659f7488c9be46be237e",
+      "approvedAt": "2026-05-12T10:32:31.978Z",
+      "approvedBy": "bennett",
+      "reviewUrl": "https://github.com/b-nnett/codex-plusplus/issues/65",
+      "archiveUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/archives/me.xtawfik.codex-plusplus-package-run/f24927c54f2798a3495b659f7488c9be46be237e.tar.gz"
+    },
+    {
+      "id": "co.bennett.project-home",
+      "manifest": {
+        "id": "co.bennett.project-home",
+        "name": "Project Home",
+        "version": "1.0.0",
+        "githubRepo": "b-nnett/codex-plusplus-project-home",
+        "description": "Adds a Project Home kanban board with per-project Linear-style issues.",
+        "author": {
+          "name": "bennett",
+          "url": "https://github.com/anomalyco/codex-plusplus"
+        },
+        "tags": [
+          "ui",
+          "projects",
+          "productivity",
+          "kanban",
+          "mcp"
+        ],
+        "scope": "both",
+        "main": "index.js",
+        "mcp": {
+          "command": "node",
+          "args": [
+            "mcp-server.js"
+          ]
+        },
+        "iconUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/icons/co.bennett.project-home.png"
+      },
+      "repo": "b-nnett/codex-plusplus-project-home",
+      "approvedCommitSha": "1d97062f707caafdac5ed2af8bd9a986341dc912",
+      "approvedAt": "2026-04-30T20:44:58+09:00",
+      "approvedBy": "bennett",
+      "archiveUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/archives/co.bennett.project-home/1d97062f707caafdac5ed2af8bd9a986341dc912.tar.gz"
+    },
+    {
+      "id": "com.imsakushi.quick-actions",
+      "manifest": {
+        "id": "com.imsakushi.quick-actions",
+        "name": "Quick Actions",
+        "version": "0.3.2",
+        "githubRepo": "ImSakushi/codex-plusplus-quick-actions",
+        "description": "Custom workflow actions for Codex's Git panel.",
+        "author": {
+          "name": "ImSakushi"
+        },
+        "tags": [
+          "git",
+          "workflow",
+          "productivity"
+        ],
+        "scope": "renderer",
+        "main": "index.cjs",
+        "iconUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/icons/com.imsakushi.quick-actions.png"
+      },
+      "repo": "ImSakushi/codex-plusplus-quick-actions",
+      "approvedCommitSha": "625cef651103c478c9ce5a5d9800e86f72c586bf",
+      "approvedAt": "2026-05-12T10:41:53.305Z",
+      "approvedBy": "bennett",
+      "reviewUrl": "https://github.com/b-nnett/codex-plusplus/issues/87",
+      "archiveUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/archives/com.imsakushi.quick-actions/625cef651103c478c9ce5a5d9800e86f72c586bf.tar.gz"
+    },
+    {
+      "id": "co.shivam94.reasoning-fixes",
+      "manifest": {
+        "id": "co.shivam94.reasoning-fixes",
+        "name": "Reasoning & Exploration Fixes",
+        "version": "1.2.0",
+        "description": "v1.2.0 stable — Keep exploration panels open, reasoning visible, and tool outputs expanded. 14 source patches + 3 runtime features.",
+        "author": {
+          "name": "shivam94",
+          "url": "https://github.com/shivam2014/codex-plusplus-reasoning-fixes"
+        },
+        "tags": [
+          "ui",
+          "reasoning",
+          "exploration",
+          "accessibility"
+        ],
+        "scope": "both",
+        "main": "index.js",
+        "githubRepo": "shivam2014/codex-plusplus-reasoning-fixes",
+        "minRuntime": "0.1.0",
+        "iconUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/icons/co.shivam94.reasoning-fixes.png"
+      },
+      "repo": "shivam2014/codex-plusplus-reasoning-fixes",
+      "approvedCommitSha": "bcb516e9a3d84e38bb6528ebd9a11d9ab5f722ae",
+      "approvedAt": "2026-05-12T10:37:05.815Z",
+      "approvedBy": "bennett",
+      "reviewUrl": "https://github.com/shivam2014/codex-plusplus-reasoning-fixes/compare/2766527ef1b159ee29d338fc7475372010ed7f6f...bcb516e9a3d84e38bb6528ebd9a11d9ab5f722ae",
+      "archiveUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/archives/co.shivam94.reasoning-fixes/bcb516e9a3d84e38bb6528ebd9a11d9ab5f722ae.tar.gz"
+    },
+    {
+      "id": "co.bennett.windows-computer-use",
+      "manifest": {
+        "id": "co.bennett.windows-computer-use",
+        "name": "Windows Computer Use",
+        "version": "0.1.0",
+        "githubRepo": "b-nnett/codex-plusplus-windows-computer-use",
+        "description": "Windows Computer Use MCP surface for Codex++.",
+        "author": {
+          "name": "bennett",
+          "url": "https://github.com/anomalyco/codex-plusplus"
+        },
+        "tags": [
+          "mcp",
+          "windows",
+          "computer-use",
+          "automation"
+        ],
+        "scope": "both",
+        "main": "index.js",
+        "mcp": {
+          "command": "node",
+          "args": [
+            "mcp-server.js"
+          ]
+        },
+        "iconUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/icons/co.bennett.windows-computer-use.png"
+      },
+      "repo": "b-nnett/codex-plusplus-windows-computer-use",
+      "approvedCommitSha": "1bb59c73f16f2ec3c3797168163d48d759eac706",
+      "approvedAt": "2026-05-02T10:11:36+09:00",
+      "approvedBy": "bennett",
+      "platforms": [
+        "win32"
+      ],
+      "archiveUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/archives/co.bennett.windows-computer-use/1bb59c73f16f2ec3c3797168163d48d759eac706.tar.gz"
+    }
+  ],
+  "mirroredFrom": "https://b-nnett.github.io/codex-plusplus/store/index.json",
+  "mirroredBy": "codex-plusplus local mirror"
+}

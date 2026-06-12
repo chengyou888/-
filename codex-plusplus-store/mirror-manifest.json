@@ -1,0 +1,305 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-06-12T17:55:11.249Z",
+  "sourceIndex": "https://b-nnett.github.io/codex-plusplus/store/index.json",
+  "indexUrl": "https://raw.githubusercontent.com/chengyou888/-/main/codex-plusplus-store/index.json",
+  "entries": 20,
+  "files": [
+    {
+      "kind": "archive",
+      "id": "co.sakushi.add-project-by-path",
+      "source": "https://codeload.github.com/ImSakushi/codex-plusplus-add-project-path/tar.gz/aef5ebff965cb3c95df2a82f3f087b161e36c2ec",
+      "localPath": "codex-plusplus-store/archives/co.sakushi.add-project-by-path/aef5ebff965cb3c95df2a82f3f087b161e36c2ec.tar.gz",
+      "bytes": 1670748,
+      "sha256": "1e6fb3248adbcd787520f894196203ece8a2a5604238978dc0c92f62724819b8"
+    },
+    {
+      "kind": "icon",
+      "id": "co.sakushi.add-project-by-path",
+      "source": "https://raw.githubusercontent.com/ImSakushi/codex-plusplus-add-project-path/main/icon.png",
+      "localPath": "codex-plusplus-store/icons/co.sakushi.add-project-by-path.png",
+      "bytes": 1455266,
+      "sha256": "253e2eed8358cefacfbb70ba81679420d5ea1e5bbdcc36cd74eca451102da4bf"
+    },
+    {
+      "kind": "archive",
+      "id": "co.bennett.ui-improvements",
+      "source": "https://codeload.github.com/b-nnett/codex-plusplus-bennett-ui/tar.gz/17156ac0cc3402284b09c13c74754eda70388f50",
+      "localPath": "codex-plusplus-store/archives/co.bennett.ui-improvements/17156ac0cc3402284b09c13c74754eda70388f50.tar.gz",
+      "bytes": 58215,
+      "sha256": "13d316305510c6099bc61f8ea0e5ef5b867e84f4a25a7ef8a85fcfd27b8aeb5c"
+    },
+    {
+      "kind": "icon",
+      "id": "co.bennett.ui-improvements",
+      "source": "https://b-nnett.github.io/codex-plusplus/store/icons/ui-improvements.png",
+      "localPath": "codex-plusplus-store/icons/co.bennett.ui-improvements.png",
+      "bytes": 258086,
+      "sha256": "f460021b7bbf3d306aefe9296a0d0e28443e2bf05165c1c4ff80486c45f69e26"
+    },
+    {
+      "kind": "archive",
+      "id": "co.bennett.better-browser",
+      "source": "https://codeload.github.com/b-nnett/codex-plusplus-better-browser/tar.gz/dfcc75ec0d8e980698974a3a2b80531cd553af77",
+      "localPath": "codex-plusplus-store/archives/co.bennett.better-browser/dfcc75ec0d8e980698974a3a2b80531cd553af77.tar.gz",
+      "bytes": 28335,
+      "sha256": "80564db37e252205c6d2dfbb0bfc2d25cf7e505e21d1dfbf6e80f0d266abddf2"
+    },
+    {
+      "kind": "icon",
+      "id": "co.bennett.better-browser",
+      "source": "https://b-nnett.github.io/codex-plusplus/store/icons/better-browser.png",
+      "localPath": "codex-plusplus-store/icons/co.bennett.better-browser.png",
+      "bytes": 255298,
+      "sha256": "92b38ab16250b41b6ea72e17b10e32de9b39b55000148e51a372d93d5f80430c"
+    },
+    {
+      "kind": "archive",
+      "id": "co.bennett.better-terminal",
+      "source": "https://codeload.github.com/b-nnett/codex-plusplus-better-terminal/tar.gz/b0398c839a42134d5cb301c432d43a9f13ac22e0",
+      "localPath": "codex-plusplus-store/archives/co.bennett.better-terminal/b0398c839a42134d5cb301c432d43a9f13ac22e0.tar.gz",
+      "bytes": 625799,
+      "sha256": "6e28200fb651da0f168137554f0143cc5ec5d32a52f92e8a2d3c6523e5e27197"
+    },
+    {
+      "kind": "icon",
+      "id": "co.bennett.better-terminal",
+      "source": "https://b-nnett.github.io/codex-plusplus/store/icons/better-terminal.png",
+      "localPath": "codex-plusplus-store/icons/co.bennett.better-terminal.png",
+      "bytes": 259296,
+      "sha256": "30abdad32a74bf613248e6339111a95370f051d8ae075ec484b1567a0d11f4a2"
+    },
+    {
+      "kind": "archive",
+      "id": "co.bennett.codex-horizontal-tabs",
+      "source": "https://codeload.github.com/b-nnett/codexplusplus-horizontal-tabs/tar.gz/1bfba0e9aeae552308c0249fb9f87d29c9c51354",
+      "localPath": "codex-plusplus-store/archives/co.bennett.codex-horizontal-tabs/1bfba0e9aeae552308c0249fb9f87d29c9c51354.tar.gz",
+      "bytes": 1610065,
+      "sha256": "065336d111eac434c69972bfae811053bc60135bd229dbd1855be286f925daca"
+    },
+    {
+      "kind": "icon",
+      "id": "co.bennett.codex-horizontal-tabs",
+      "source": "https://b-nnett.github.io/codex-plusplus/store/icons/tabs.png",
+      "localPath": "codex-plusplus-store/icons/co.bennett.codex-horizontal-tabs.png",
+      "bytes": 1200864,
+      "sha256": "ff4c2a8f7354763385c59dc50babebd3cfc0105de9a90de2b331372419ccf25f"
+    },
+    {
+      "kind": "archive",
+      "id": "co.bennett.codex-tab-switcher",
+      "source": "https://codeload.github.com/b-nnett/codex-plusplus-tab-switcher/tar.gz/97b1226fb264dfebe7dbf5286497b99613981287",
+      "localPath": "codex-plusplus-store/archives/co.bennett.codex-tab-switcher/97b1226fb264dfebe7dbf5286497b99613981287.tar.gz",
+      "bytes": 10666,
+      "sha256": "69dadef1827c27a43a8e8de8c8bb7dec0305bfe2a1462e93e37e228906a1cef9"
+    },
+    {
+      "kind": "icon",
+      "id": "co.bennett.codex-tab-switcher",
+      "source": "https://b-nnett.github.io/codex-plusplus/store/icons/tab-switcher.png",
+      "localPath": "codex-plusplus-store/icons/co.bennett.codex-tab-switcher.png",
+      "bytes": 252522,
+      "sha256": "3b8ae3c5b9138a11edf4ed3756a903e2d7c605f2f154a0210e8d70e9af3515e6"
+    },
+    {
+      "kind": "archive",
+      "id": "com.jumang.completion-sound",
+      "source": "https://codeload.github.com/jumang4423/codex-completion-sound/tar.gz/d1447aab3835020e6dd9362e661a5d12579377f2",
+      "localPath": "codex-plusplus-store/archives/com.jumang.completion-sound/d1447aab3835020e6dd9362e661a5d12579377f2.tar.gz",
+      "bytes": 206192,
+      "sha256": "278ab7143740c8041f2a2e7eacb4ef75854a43e930dba209eb81727d16c6f20e"
+    },
+    {
+      "kind": "archive",
+      "id": "co.Arconte112.followup",
+      "source": "https://codeload.github.com/Arconte112/codex-plusplus-followup/tar.gz/3d169c4f2f6508c3cf6a89a6531ed939209b5d6c",
+      "localPath": "codex-plusplus-store/archives/co.Arconte112.followup/3d169c4f2f6508c3cf6a89a6531ed939209b5d6c.tar.gz",
+      "bytes": 74508,
+      "sha256": "28f20fd5895e7e9fc2f2f6ce97f7fb59ee7ebb7c6060422a65eeaaccade44f12"
+    },
+    {
+      "kind": "icon",
+      "id": "co.Arconte112.followup",
+      "source": "https://b-nnett.github.io/codex-plusplus/store/icons/followup.png",
+      "localPath": "codex-plusplus-store/icons/co.Arconte112.followup.png",
+      "bytes": 262913,
+      "sha256": "60e1e9c1ba67e9d855196888af61c62af50ca6a1dc0ba5888452a9dd55570064"
+    },
+    {
+      "kind": "archive",
+      "id": "co.bennett.custom-keyboard-shortcuts",
+      "source": "https://codeload.github.com/b-nnett/codex-plusplus-keyboard-shortcuts/tar.gz/2fa2e5beeda1766b53288a6e28662443889e1f5b",
+      "localPath": "codex-plusplus-store/archives/co.bennett.custom-keyboard-shortcuts/2fa2e5beeda1766b53288a6e28662443889e1f5b.tar.gz",
+      "bytes": 15127,
+      "sha256": "b8913e93fe68817f874a3352451a01e9c5be70882eb896f7968fedd7548a7d54"
+    },
+    {
+      "kind": "icon",
+      "id": "co.bennett.custom-keyboard-shortcuts",
+      "source": "https://b-nnett.github.io/codex-plusplus/store/icons/keyboard-shortcuts.png",
+      "localPath": "codex-plusplus-store/icons/co.bennett.custom-keyboard-shortcuts.png",
+      "bytes": 266949,
+      "sha256": "3d9321e1d280cd06733a0d4d9d44802853b02b32c60ded088e63a65811b3b8be"
+    },
+    {
+      "kind": "archive",
+      "id": "co.qoli.disable-escape",
+      "source": "https://codeload.github.com/qoli/codex-disable-escape-tweak/tar.gz/241f066ab315c98ff1df15a884f50d72328c8630",
+      "localPath": "codex-plusplus-store/archives/co.qoli.disable-escape/241f066ab315c98ff1df15a884f50d72328c8630.tar.gz",
+      "bytes": 465930,
+      "sha256": "769be044806b15c834c5b20399175d6d1998998f48605fa25cf2c81aaf95024c"
+    },
+    {
+      "kind": "icon",
+      "id": "co.qoli.disable-escape",
+      "source": "https://b-nnett.github.io/codex-plusplus/store/icons/esc.png",
+      "localPath": "codex-plusplus-store/icons/co.qoli.disable-escape.png",
+      "bytes": 280329,
+      "sha256": "e8027a554a92d792445eef92ca168cc7f13a9a483b49f674fdea777008c2f3ea"
+    },
+    {
+      "kind": "archive",
+      "id": "me.erkin.codex-plusplus-account-switcher",
+      "source": "https://codeload.github.com/erknvl/codex-plusplus-account-switcher/tar.gz/a37737530532170802262009af376da1a9fc25d6",
+      "localPath": "codex-plusplus-store/archives/me.erkin.codex-plusplus-account-switcher/a37737530532170802262009af376da1a9fc25d6.tar.gz",
+      "bytes": 29459,
+      "sha256": "dee3535ebd0f66fbf83fc3387c244d44f476cbaf7b232fe54d86eee7f771874b"
+    },
+    {
+      "kind": "icon",
+      "id": "me.erkin.codex-plusplus-account-switcher",
+      "source": "https://b-nnett.github.io/codex-plusplus/store/icons/auth-switcher.png",
+      "localPath": "codex-plusplus-store/icons/me.erkin.codex-plusplus-account-switcher.png",
+      "bytes": 267925,
+      "sha256": "b4b1dd4a153306f88cd6bf2423537a9abb639f3623751e422a5c2d325c3664c0"
+    },
+    {
+      "kind": "archive",
+      "id": "co.bennett.file-editor",
+      "source": "https://codeload.github.com/b-nnett/codex-plusplus-file-editor/tar.gz/672e21d955b636ec88c6e8c67de5431341f146dc",
+      "localPath": "codex-plusplus-store/archives/co.bennett.file-editor/672e21d955b636ec88c6e8c67de5431341f146dc.tar.gz",
+      "bytes": 297752,
+      "sha256": "bf0f0cd54fcd6e99ab493d6a078f931596c744d76592b9aaaec1184c74a2a2f0"
+    },
+    {
+      "kind": "icon",
+      "id": "co.bennett.file-editor",
+      "source": "https://b-nnett.github.io/codex-plusplus/store/icons/file-editor.png",
+      "localPath": "codex-plusplus-store/icons/co.bennett.file-editor.png",
+      "bytes": 266554,
+      "sha256": "7675775402b9129c2f61c6b658fc41b70fdb65b27a87061ffea62756af172046"
+    },
+    {
+      "kind": "archive",
+      "id": "co.bennett.goal",
+      "source": "https://codeload.github.com/b-nnett/codex-plusplus-goal/tar.gz/e38f99fa0116cf76dcd21150b0ae297f184e5157",
+      "localPath": "codex-plusplus-store/archives/co.bennett.goal/e38f99fa0116cf76dcd21150b0ae297f184e5157.tar.gz",
+      "bytes": 106755,
+      "sha256": "65232c3a9ed990007ae483d6179ff3b1e07e0c72cd76c0eabb3992a0947f1e19"
+    },
+    {
+      "kind": "icon",
+      "id": "co.bennett.goal",
+      "source": "https://b-nnett.github.io/codex-plusplus/store/icons/goal.png",
+      "localPath": "codex-plusplus-store/icons/co.bennett.goal.png",
+      "bytes": 1355913,
+      "sha256": "030ba66ef4746ff1c2a599acc3861cb34c2c25cc03933ff0b0d4e69c3b2b7de1"
+    },
+    {
+      "kind": "archive",
+      "id": "co.bennett.ios-simulator",
+      "source": "https://codeload.github.com/b-nnett/codex-plusplus-ios-simulator/tar.gz/2601adbc6e8faff389d30c7afff6ed2985b36554",
+      "localPath": "codex-plusplus-store/archives/co.bennett.ios-simulator/2601adbc6e8faff389d30c7afff6ed2985b36554.tar.gz",
+      "bytes": 65020,
+      "sha256": "6e38e780e71f72ef85dd7efbd53a73f9b2d0cde538d5d15f2fe89d4fb9691b88"
+    },
+    {
+      "kind": "icon",
+      "id": "co.bennett.ios-simulator",
+      "source": "https://b-nnett.github.io/codex-plusplus/store/icons/ios-simulator.png",
+      "localPath": "codex-plusplus-store/icons/co.bennett.ios-simulator.png",
+      "bytes": 257700,
+      "sha256": "029eeb6979a83992056f04db8f933dbdc573ac4bb43438fb48ce97e4fbcc4855"
+    },
+    {
+      "kind": "archive",
+      "id": "co.bennett.computer-use",
+      "source": "https://codeload.github.com/TheAndersMadsen/codex-plusplus-computer-use/tar.gz/52fe7b4b69854fcdfe34c36089d487329ebb8017",
+      "localPath": "codex-plusplus-store/archives/co.bennett.computer-use/52fe7b4b69854fcdfe34c36089d487329ebb8017.tar.gz",
+      "bytes": 22259,
+      "sha256": "c57a50a0109faf0713597027701c90c5da68215ebfb8b89812243c605985f360"
+    },
+    {
+      "kind": "archive",
+      "id": "me.xtawfik.codex-plusplus-package-run",
+      "source": "https://codeload.github.com/xtawfik/codex-plusplus-package-run/tar.gz/f24927c54f2798a3495b659f7488c9be46be237e",
+      "localPath": "codex-plusplus-store/archives/me.xtawfik.codex-plusplus-package-run/f24927c54f2798a3495b659f7488c9be46be237e.tar.gz",
+      "bytes": 432986,
+      "sha256": "aa0c3deeb0a944d632aca6896795ac2980bc5aeb34a01a671b855e338b600d06"
+    },
+    {
+      "kind": "archive",
+      "id": "co.bennett.project-home",
+      "source": "https://codeload.github.com/b-nnett/codex-plusplus-project-home/tar.gz/1d97062f707caafdac5ed2af8bd9a986341dc912",
+      "localPath": "codex-plusplus-store/archives/co.bennett.project-home/1d97062f707caafdac5ed2af8bd9a986341dc912.tar.gz",
+      "bytes": 63781,
+      "sha256": "2a2c258f8f8728bdbe9b12f4d710b9421afe5590852b1dc5a94da882020b1715"
+    },
+    {
+      "kind": "icon",
+      "id": "co.bennett.project-home",
+      "source": "https://b-nnett.github.io/codex-plusplus/store/icons/project-home.png",
+      "localPath": "codex-plusplus-store/icons/co.bennett.project-home.png",
+      "bytes": 241038,
+      "sha256": "e0b43770dae3dadbec05271d77deb881323a9c1acd778b610e211dd43d6e72ad"
+    },
+    {
+      "kind": "archive",
+      "id": "com.imsakushi.quick-actions",
+      "source": "https://codeload.github.com/ImSakushi/codex-plusplus-quick-actions/tar.gz/625cef651103c478c9ce5a5d9800e86f72c586bf",
+      "localPath": "codex-plusplus-store/archives/com.imsakushi.quick-actions/625cef651103c478c9ce5a5d9800e86f72c586bf.tar.gz",
+      "bytes": 1795752,
+      "sha256": "b499fc40081383b34abb4311249b8800912432fb85f5cc43138fcf27c997c707"
+    },
+    {
+      "kind": "icon",
+      "id": "com.imsakushi.quick-actions",
+      "source": "https://raw.githubusercontent.com/ImSakushi/codex-plusplus-quick-actions/main/icon.png",
+      "localPath": "codex-plusplus-store/icons/com.imsakushi.quick-actions.png",
+      "bytes": 1541031,
+      "sha256": "044a4d851a78cf3e3f284827dc8b2eed302ac3c4ecf64150a3f1aec5f232321e"
+    },
+    {
+      "kind": "archive",
+      "id": "co.shivam94.reasoning-fixes",
+      "source": "https://codeload.github.com/shivam2014/codex-plusplus-reasoning-fixes/tar.gz/bcb516e9a3d84e38bb6528ebd9a11d9ab5f722ae",
+      "localPath": "codex-plusplus-store/archives/co.shivam94.reasoning-fixes/bcb516e9a3d84e38bb6528ebd9a11d9ab5f722ae.tar.gz",
+      "bytes": 1404229,
+      "sha256": "699bdebd33c0c38f79987625bf6641380ea14e9943e90dbd1435bf01a9b51575"
+    },
+    {
+      "kind": "icon",
+      "id": "co.shivam94.reasoning-fixes",
+      "source": "https://b-nnett.github.io/codex-plusplus/store/icons/thought-fixer.png",
+      "localPath": "codex-plusplus-store/icons/co.shivam94.reasoning-fixes.png",
+      "bytes": 273071,
+      "sha256": "59a6ce35e7dfc81d1091c766823d1ad954fe0d97cf1f8a05efd269b6cd200633"
+    },
+    {
+      "kind": "archive",
+      "id": "co.bennett.windows-computer-use",
+      "source": "https://codeload.github.com/b-nnett/codex-plusplus-windows-computer-use/tar.gz/1bb59c73f16f2ec3c3797168163d48d759eac706",
+      "localPath": "codex-plusplus-store/archives/co.bennett.windows-computer-use/1bb59c73f16f2ec3c3797168163d48d759eac706.tar.gz",
+      "bytes": 12335678,
+      "sha256": "37c968e133a3072d14718beb62e939b22f4b226d494df9b5eab8bb343085bacd"
+    },
+    {
+      "kind": "icon",
+      "id": "co.bennett.windows-computer-use",
+      "source": "https://b-nnett.github.io/codex-plusplus/store/icons/windows-computer-use.png",
+      "localPath": "codex-plusplus-store/icons/co.bennett.windows-computer-use.png",
+      "bytes": 253654,
+      "sha256": "7dbcb56179349f00f9f6b03100c2639d2f2f045a1537aff587f43f8abf96600a"
+    }
+  ]
+}
