@@ -1,0 +1,18 @@
+node_modules
+dist
+build
+*.log
+.DS_Store
+.vscode
+.idea
+*.tsbuildinfo
+coverage
+.playwright-cli/
+.env
+.env.*
+!.env.example
+codex-config.backup-*.toml
+
+# installer artifacts (local testing)
+/tmp-extract
+/tmp-codex
